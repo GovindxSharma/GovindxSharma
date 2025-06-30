@@ -69,8 +69,8 @@ My [React Learning Repository](https://github.com/GovindxSharma/React) shows how
 ## 📫 Reach Me
 
 - 🌐 Portfolio: [govind-sharma.onrender.com](https://govind-sharma.onrender.com)  
-- 📧 Email: govindxsharma@gmail.com  
-- 💼 LinkedIn: [Govind Sharma](https://www.linkedin.com/in/govindxsharma)
+- 📧 Email: govindsharma2839@gmail.com 
+- 💼 LinkedIn: [Govind Sharma](https://www.linkedin.com/in/govind-sharmax30)
 
 ---
 
