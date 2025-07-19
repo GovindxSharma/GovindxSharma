@@ -13,7 +13,7 @@ I build scalable, secure, and high-performance applications using Node.js, React
 I enjoy solving real-world problems through code and collaborating across teams.  
 Currently pursuing an M.Tech in Computer Applications from MDU, Rohtak.
 
-> “Give me a challenge, and I’ll build the system for it.”
+> “Give me a task, and I’ll build the system for it.”
 
 ---
 
