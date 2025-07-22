@@ -38,9 +38,15 @@ Currently pursuing an M.Tech in Computer Applications from MDU, Rohtak.
 
 ## 🚀 Featured Projects
 
+### 🛍️ [Shopshere](https://github.com/GovindxSharma/Shopshere)
+A complete modern e-commerce platform built with the MERN stack.  
+Includes full authentication (local + Google OAuth), shopping cart, reviews, Razorpay payments, admin dashboard, and responsive UI.  
+**Tech:** React, Redux Toolkit, Node.js, Express, MongoDB, Cloudinary, Razorpay.
+
 ### 🛒 [ShopKart](https://github.com/GovindxSharma/ShopKart)
-MERN stack e-commerce web app for phones and accessories.  
-User auth, cart, filters, admin panel, payment-ready with Razorpay.
+My first full-fledged React e-commerce app built while exploring React.js.  
+Product listing, auth, filters, cart, and admin CRUD panel included.  
+**Tech:** React, Redux, Express, MongoDB, Razorpay.
 
 ### 🧠 SkillBridge (Coming Soon)
 A mentorship & learning community platform built with role-based access, session booking, donation handling, and chat integration.
@@ -83,12 +89,12 @@ Includes blogging app, score tracker, and Redux vanilla setups.
 
 ## 📌 Pinned Projects
 
+- `Shopshere`
 - `ShopKart`
 - `YMs-v2`
 - `SkillBridge`
 - `Chatt`
 - `React`
-- `Portfolio`
 
 ---
 
