@@ -38,7 +38,7 @@ Currently pursuing an M.Tech in Computer Applications from MDU, Rohtak.
 
 ## 🚀 Featured Projects
 
-### 🛍️ [Shopshere](https://github.com/GovindxSharma/Shopshere)
+### 🛍️ [Shopshere](https://github.com/GovindxSharma/ShopShereF)
 A complete modern e-commerce platform built with the MERN stack.  
 Includes full authentication (local + Google OAuth), shopping cart, reviews, Razorpay payments, admin dashboard, and responsive UI.  
 **Tech:** React, Redux Toolkit, Node.js, Express, MongoDB, Cloudinary, Razorpay.
