@@ -104,7 +104,7 @@ Includes blogging app, score tracker, and Redux vanilla setups.
 - 💼 LinkedIn: [Govind Sharma](https://www.linkedin.com/in/govind-sharmax30)  
 - 💻 GitHub: [GovindxSharma](https://github.com/GovindxSharma)  
 - 📧 Email: govindsharma2839@gmail.com || outreach.govind@gmail.com 
-- 📱 Phone: +91 98961 33493
+- 📱 Phone: +91 97129 35176
 
 ---
 
