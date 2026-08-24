@@ -1,112 +1,91 @@
-<h1 align="center">Hi 👋, I'm Govind Sharma</h1>
+<div align="center">
+  <h1>Govind Sharma</h1>
+  <p><strong>Full-Stack Developer & Backend Systems Specialist</strong></p>
+  <p>MERN Stack | Scalable REST APIs | System Architecture | Distributed Systems</p>
 
-<p align="center">
-  🚀 Full Stack Developer | 💡 Backend Specialist | 💻 MERN | ⚙️ DevOps Curious
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I'm Govind, a full-stack developer with a strong focus on backend engineering.  
-I build scalable, secure, and high-performance applications using Node.js, React, and modern tools.  
-I enjoy solving real-world problems through code and collaborating across teams.  
-Currently pursuing an M.Tech in Computer Applications from MDU, Rohtak.
-
-> “Give me a task, and I’ll build the system for it.”
+  <p>
+    <a href="https://govind-sharma.onrender.com"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/govind-sharmax30"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:govindsharma2839@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/GovindxSharma"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
+</div>
 
 ---
 
-## ⚙️ Tech Stack
+### About
 
-### 💻 Languages & Frameworks
-- **Languages:** JavaScript, TypeScript, HTML, CSS, SQL
-- **Frontend:** React.js, Next.js, Tailwind CSS, Sass
-- **Backend:** Node.js, Express.js, REST APIs
-- **Databases:** MongoDB, PostgreSQL, MySQL
-- **State Management:** Redux, Context API
-- **Authentication:** JWT, OAuth
+Software Engineer with a focus on designing resilient backend architectures and responsive full-stack applications. Specialized in the **MERN** stack, relational and non-relational database design, secure token-based authentication workflows, and distributed real-time communication. 
 
-### 🛠 Tools & DevOps
-- Git, GitHub, Postman, VS Code  
-- Render, Railway, Vercel  
-- Nodemon, Multer, Dotenv  
-- CI/CD Basics, Linux Terminal, .env configs  
-- ESLint, Prettier, JSON tools
+* Pursuing **M.Tech in Computer Applications** at Maharshi Dayanand University (MDU), Rohtak.
+* Strong emphasis on system design principles, modular code structure, and automated CI/CD pipelines.
 
 ---
 
-## 🚀 Featured Projects
+### Technical Skills
 
-### 🛍️ [Shopshere](https://github.com/GovindxSharma/ShopShereF)
-A complete modern e-commerce platform built with the MERN stack.  
-Includes full authentication (local + Google OAuth), shopping cart, reviews, Razorpay payments, admin dashboard, and responsive UI.  
-**Tech:** React, Redux Toolkit, Node.js, Express, MongoDB, Cloudinary, Razorpay.
-
-### 🛒 [ShopKart](https://github.com/GovindxSharma/ShopKart)
-My first full-fledged React e-commerce app built while exploring React.js.  
-Product listing, auth, filters, cart, and admin CRUD panel included.  
-**Tech:** React, Redux, Express, MongoDB, Razorpay.
-
-### 🧠 SkillBridge (Coming Soon)
-A mentorship & learning community platform built with role-based access, session booking, donation handling, and chat integration.
-
-### 🧾 [YMs-v2 – Yard Management System](https://github.com/GovindxSharma/YMs-v2)
-Client project for ShipOps Go.  
-Handles gate entries, container tracking, repair, and billing. Backend powered by Node.js, MongoDB, and JWT.
-
-### 💬 [Chatt](https://github.com/GovindxSharma/Chatt)
-Real-time group and private messaging app using React + Socket.IO.  
-Built with secure user auth and fast UI.
-
-### 🎮 [Ping Pong Game](https://github.com/GovindxSharma/PingPong)
-JS-based 2-player game with high-score tracking and ball physics.
-
-### 📸 [ScreenCapture](https://github.com/GovindxSharma/ScreenCapture)
-Backend service that monitors user interaction via periodic screenshots using `screenshot-desktop` and stores data securely.
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Languages** | JavaScript (ES6+), TypeScript, SQL, HTML5, CSS3/Sass |
+| **Backend** | Node.js, Express.js, RESTful APIs, WebSockets (Socket.IO), Microservices |
+| **Frontend** | React.js, Next.js, Redux Toolkit, Context API, Tailwind CSS |
+| **Databases** | MongoDB, PostgreSQL, MySQL, Redis |
+| **Auth & Security** | JWT, OAuth 2.0, Role-Based Access Control (RBAC), bcrypt |
+| **DevOps & Cloud** | Git, GitHub Actions, Docker, Linux, Render, Vercel, Railway |
+| **Testing & Tools** | Postman, Multer, Cloudinary, ESLint, Prettier |
 
 ---
 
-## 📘 Data Structures & Algorithms
+### Featured Projects
 
-I love solving DSA problems and improving system design skills.
+#### [Shopshere — Full-Stack E-Commerce Platform](https://github.com/GovindxSharma/ShopShereF)
+* Architected end-to-end commerce system featuring dual auth (Local JWT + Google OAuth), dynamic catalog filtering, and multi-tier role authorization.
+* Integrated Razorpay payment gateway with webhook verification and Cloudinary for automated asset pipeline handling.
+* **Stack:** React, Redux Toolkit, Node.js, Express, MongoDB, Cloudinary, Razorpay
 
-- 🧠 **2000+ submissions** on [CodeStudio](https://www.naukri.com/code360/profile/Govindx7)
-  - 🟦 433 coding problems, 1641 MCQs
-  - 🎯 Longest streak: 4 days
-- ✅ Solved Spiral Matrix, Binary Search 2D, String Reversal, and more
-- 🚀 Recently started solving on LeetCode too!
+#### [YMs-v2 — Yard Management System](https://github.com/GovindxSharma/YMs-v2)
+* Production-grade logistics backend developed for ShipOps Go to track yard inventory, automated gate passes, container status cycles, and billing workflows.
+* Enforced schema constraints and aggregation pipelines to process complex operational reporting data.
+* **Stack:** Node.js, Express.js, MongoDB, JWT, RESTful API
 
----
+#### [Chatt — Real-Time Messaging Architecture](https://github.com/GovindxSharma/Chatt)
+* Real-time bidirectional communication engine supporting 1-on-1 private messaging and dynamic room broadcasts.
+* Handled connection heartbeats, disconnected client state recovery, and secure chat histories.
+* **Stack:** React, Node.js, Express, Socket.IO, MongoDB
 
-## 📚 React Journey – Learn by Doing
+#### [ScreenCapture — Automated Client Monitoring Daemon](https://github.com/GovindxSharma/ScreenCapture)
+* Lightweight background utility capturing periodic user sessions and securely transferring structured payload streams to remote data storage.
+* **Stack:** Node.js, `screenshot-desktop`, REST API
 
-📁 [React Practice Repository](https://github.com/GovindxSharma/React)  
-Built components, routing, custom context, hooks, and multiple mini-projects week-by-week.  
-Includes blogging app, score tracker, and Redux vanilla setups.
-
----
-
-## 📌 Pinned Projects
-
-- `Shopshere`
-- `ShopKart`
-- `YMs-v2`
-- `SkillBridge`
-- `Chatt`
-- `React`
+#### [SkillBridge — Peer Learning & Mentorship Platform](https://github.com/GovindxSharma)
+* Platform featuring tiered role privileges, real-time consultation scheduling, donation ledger tracking, and live user communication.
+* **Stack:** Next.js, Node.js, PostgreSQL, Socket.IO
 
 ---
 
-## 📫 Let's Connect
+### Algorithmic Problem Solving
 
-- 🌐 Portfolio: [govind-sharma.onrender.com](https://govind-sharma.onrender.com)  
-- 💼 LinkedIn: [Govind Sharma](https://www.linkedin.com/in/govind-sharmax30)  
-- 💻 GitHub: [GovindxSharma](https://github.com/GovindxSharma)  
-- 📧 Email: govindsharma2839@gmail.com || outreach.govind@gmail.com 
-- 📱 Phone: +91 97129 35176
+* **2,000+ Solutions & Submissions** across competitive platforms ([CodeStudio / Naukri Code360](https://www.naukri.com/code360/profile/Govindx7) | [LeetCode](https://leetcode.com/GovindxSharma))
+* Specialized in:
+  * Dynamic Programming & Recursion
+  * Graph Traversals (BFS, DFS) & Tree Algorithms
+  * 2D Matrix Manipulations & Binary Search Variants
+  * Efficient Array Operations & Hash-based System Optimization
 
 ---
 
-> “Keep shipping. Keep solving. Keep building.”  
-> — Govind Sharma
+### GitHub Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GovindxSharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindxSharma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+</div>
+
+---
+
+### Contact
+
+* **Location:** India
+* **Email:** [govindsharma2839@gmail.com](mailto:govindsharma2839@gmail.com) | [outreach.govind@gmail.com](mailto:outreach.govind@gmail.com)
+* **LinkedIn:** [linkedin.com/in/govind-sharmax30](https://www.linkedin.com/in/govind-sharmax30)
+* **Portfolio:** [govind-sharma.onrender.com](https://govind-sharma.onrender.com)
