@@ -73,31 +73,26 @@ Full-Stack and Backend Engineer experienced in building scalable web architectur
 ### Activity Matrix
 
 <div align="center">
-  <table>
+  <table border="0" cellspacing="10" cellpadding="10" width="100%">
     <tr>
-      <td width="50%" align="center">
-        <strong>GitHub Contribution Stream</strong><br /><br />
-        <img src="https://snk-badge.vercel.app/api/snk/GovindxSharma?theme=dark" alt="Contribution Snake Animation" width="100%" />
+      <td width="33%" align="center">
+        <img src="https://img.shields.io/badge/Competitive_DSA-2000+_Submissions-007ACC?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA Metric" width="100%" />
       </td>
-      <td width="50%" align="center">
-        <strong>Core Capabilities & Scale</strong><br /><br />
-        <img src="https://img.shields.io/badge/Competitive_DSA-2000+_Submissions-blue?style=for-the-badge&logo=leetcode" alt="DSA Metric" width="100%" /><br /><br />
-        <img src="https://img.shields.io/badge/Stack-Full_Stack_MERN_/_Next.js-2563EB?style=for-the-badge&logo=react" alt="Stack Metric" width="100%" /><br /><br />
-        <img src="https://img.shields.io/badge/Cloud_&_DevOps-Docker_/_AWS_/_CI_CD-181717?style=for-the-badge&logo=docker" alt="Cloud Metric" width="100%" />
+      <td width="33%" align="center">
+        <img src="https://img.shields.io/badge/Primary_Stack-MERN_/_Next.js_/_PostgreSQL-2563EB?style=for-the-badge&logo=react&logoColor=white" alt="Stack Metric" width="100%" />
+      </td>
+      <td width="33%" align="center">
+        <img src="https://img.shields.io/badge/Architecture-Real--Time_WebSockets_/_Docker-181717?style=for-the-badge&logo=docker&logoColor=white" alt="Cloud Metric" width="100%" />
       </td>
     </tr>
   </table>
 </div>
 
----
-
-### Problem Solving & System Architecture
-
 ```text
 ========================================================================================
-ALGORITHMIC PROFILE : 2,000+ Verified Submissions (CodeStudio / LeetCode)
+ALGORITHMIC & SYSTEM DESIGN ARCHITECTURE
 ========================================================================================
-- Data Structures  : Graphs (BFS/DFS), Dynamic Programming, 2D Matrices, Segment Trees
-- Backend Focus    : Event-Driven Systems, Socket.IO WebSockets, RBAC, DB Index Optimization
-- DevOps & Cloud   : Docker Containers, Linux Environments, CI/CD Pipeline Automation
+- Algorithmic Depth : 2000+ Solutions (DP, Graph BFS/DFS, 2D Matrices, Segment Trees)
+- Backend Protocols : Bidirectional WebSockets, RESTful Microservices, OAuth / JWT RBAC
+- Cloud & Pipelines : Containerization (Docker), AWS (EC2/S3), GitHub Actions CI/CD
 ========================================================================================
