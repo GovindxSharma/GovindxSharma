@@ -24,10 +24,10 @@
 
 ### Production & Major Deployments
 
-| Project | Highlights & Domain | Stack | Live / Code |
+| Project | Highlights & Architecture | Stack | Live / Code |
 | :--- | :--- | :--- | :--- |
 | **UrbanOasis** | Commercial salon reservation platform with real-time slot scheduling, service catalog management, and payment handling. | React, Node.js, Express, MongoDB, Tailwind | <a href="https://urbanoasis-r6sa.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-007ACC?style=flat-square&logo=render&logoColor=white" alt="Live Demo" /></a> |
-| **ShopShere** | Production-ready e-commerce platform with dual authentication (JWT + Google OAuth), Razorpay integration, and Cloudinary media processing. | React, Redux Toolkit, Node.js, Express, MongoDB | <a href="https://shopsheretheshoppingzone.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-007ACC?style=flat-square&logo=render&logoColor=white" alt="Live Demo" /></a> <a href="https://github.com/GovindxSharma/ShopShereF"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a> |
+| **ShopShere** | Scalable e-commerce engine featuring dual authentication (JWT + Google OAuth), Razorpay payment processing, and Cloudinary media pipelines. | React, Redux Toolkit, Node.js, Express, MongoDB | <a href="https://shopsheretheshoppingzone.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-007ACC?style=flat-square&logo=render&logoColor=white" alt="Live Demo" /></a> <a href="https://github.com/GovindxSharma/ShopShereF"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a> |
 | **SkillBridge** | P2P mentorship and interactive learning network featuring role-based authorization, session booking, and integrated donation ledger. | Next.js, Node.js, PostgreSQL, Socket.IO | <a href="https://skillbridge-de3b.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-007ACC?style=flat-square&logo=render&logoColor=white" alt="Live Demo" /></a> <a href="https://github.com/GovindxSharma"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a> |
 | **Chatt** | Low-latency real-time chat architecture supporting direct 1-on-1 conversations, dynamic group rooms, and persistent message logs. | React, Socket.IO, Node.js, Express, MongoDB | <a href="https://chat-to-talk.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-007ACC?style=flat-square&logo=render&logoColor=white" alt="Live Demo" /></a> <a href="https://github.com/GovindxSharma/Chatt"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a> |
 | **MeetStudio** | WebRTC multi-user video conferencing and collaboration workspace with low-latency audio/video transmission and screen-sharing pipelines. | WebRTC, Socket.IO, React, Node.js | <a href="https://meet-studiof.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-007ACC?style=flat-square&logo=render&logoColor=white" alt="Live Demo" /></a> <a href="https://github.com/GovindxSharma"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a> |
@@ -47,21 +47,32 @@
 
 ---
 
-### GitHub Metrics & Activity
+### Activity & Live Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=GovindxSharma&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=GovindxSharma&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GovindxSharma&theme=dracula&no-frame=true&column=6&margin-w=10" width="100%" alt="GitHub Trophies" />
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/GovindxSharma">
+    <img src="https://streak-stats.demolab.com/?user=GovindxSharma&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+  </a>
+  <a href="https://github.com/GovindxSharma">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GovindxSharma&theme=tokyonight" alt="Profile Summary Card" width="49%" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GovindxSharma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GovindxSharma&theme=tokyonight" width="49%" alt="Top Commit Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GovindxSharma&theme=tokyonight" width="49%" alt="Overall Stats" />
 </div>
 
 ---
 
 ### Algorithmic Problem Solving & System Design
 
-* **2,000+ Submissions & Solutions** ([CodeStudio / Naukri Code360](https://www.naukri.com/code360/profile/Govindx7) | [LeetCode](https://leetcode.com/GovindxSharma))[cite: 1]
+* **2,000+ Submissions & Solutions** across competitive coding platforms ([CodeStudio / Naukri Code360](https://www.naukri.com/code360/profile/Govindx7) | [LeetCode](https://leetcode.com/GovindxSharma))[cite: 1]
 * **Core Competencies:** Dynamic Programming, Graph Traversals (BFS/DFS), 2D Matrix Computations, Sliding Window, and Tree Optimization.
 * **Architecture Practice:** Scalable API Design, Role-Based Access Control (RBAC), WebSockets, and Database Indexing.[cite: 1]
